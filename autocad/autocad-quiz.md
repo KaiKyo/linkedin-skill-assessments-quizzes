@@ -30,10 +30,10 @@
 
 #### Q5. When working in a layout, if a viewport is activated and locked and you accidentally zoom in or out, what happens to your viewport scale?
 
-- [ ] Nothing. The viewport scale remains the same.
+- [x] Nothing. The viewport scale remains the same.
 - [ ] The viewport scale returns to the default 1:1 scale.
 - [ ] The viewport scale changes to the next available standard scale.
-- [x] The viewport scale changes to a nonstandard scale.
+- [ ] The viewport scale changes to a nonstandard scale.
 
 #### Q6. Dynamic Input (DYNMODE) is switched on by default. Which function key do you use to control the Dynamic Input toggle?
 
@@ -191,9 +191,9 @@
 #### Q28. Center Mark (CENTERMARK), a new annotation tool for circles and arcs, provides an associative center mark that can be edited easily and remains associative to its geometry. Which AutoCAD system variable controls the extension line overshoots that go past the circumference of the circle or arc?
 
 - [ ] CENTERRESET
-- [ ] CENTEREXE
+- [x] CENTEREXE
 - [ ] CENTERLTSCALE
-- [x] CENTERMARKEXE
+- [ ] CENTERMARKEXE
 
 #### Q29. Where would you find the Application menu in AutoCAD?
 
@@ -220,25 +220,25 @@
 5. Specify the height.
 6. Specify the rotation angle.
 
+- [ ]
+
+1. Right-click and select Justify.
+2. Select MC.
+3. Specify the height.
+4. Specify the rotation angle.
+5. Pick a middle point.
+6. Type text.
+
+- [ ]
+
+1. Right-click and select Justify.
+2. Select MC.
+3. Specify the height.
+4. Specify the rotation angle.
+5. Pick a middle point.
+6. Type text.
+
 - [x]
-
-1. Right-click and select Justify.
-2. Select MC.
-3. Specify the height.
-4. Specify the rotation angle.
-5. Pick a middle point.
-6. Type text.
-
-- [ ]
-
-1. Right-click and select Justify.
-2. Select MC.
-3. Specify the height.
-4. Specify the rotation angle.
-5. Pick a middle point.
-6. Type text.
-
-- [ ]
 
 1. Right-click and select Justify.
 2. Select MC.
@@ -257,7 +257,7 @@
 #### Q33. The Quick Access toolbar (QAT) is located in the top left of the AutoCAD application window. Which two commands in the QAT allow you to go backward and forward in your AutoCAD workflow?
 
 - [ ] Left and Right
-- [ ] Undo and Redo
+- [x] Undo and Redo
 - [ ] Rewind and Fast
 - [ ] Forward Unfix and Fix
 
@@ -293,8 +293,8 @@
 
 - [ ] a node
 - [ ] a midpoint
-- [ ] a vertex
-- [x] a center point
+- [x] a vertex
+- [ ] a center point
 
 #### Q39. In order for object snap tracking to function effectively, what other drafting setting must be switched on?
 
@@ -337,15 +337,15 @@
 
 - [ ] Each named view has its own current drafting layer.
 - [ ] Each named view can be saved with a layer snapshot, which might change your current drafting layer.
-- [ ] Each named view has its own current drafting layer, with the layer name being the same as the name of the named view.
+- [x] Each named view has its own current drafting layer, with the layer name being the same as the name of the named view.
 - [ ] Each named view changes the current drafting layer to a default drafting layer.
 
 #### Q45. When using palettes in AutoCAD, why would you dock a palette and then use the auto-hide function?
 
 - [ ] to make sure AutoCAD works properly
 - [ ] to isolate all the blocks you are using in the current drawing
-- [x] to stop anyone seeing which AutoCAD palettes you are using
-- [ ] to automatically hide the palette content and display only the docked palette title bar
+- [ ] to stop anyone seeing which AutoCAD palettes you are using
+- [x] to automatically hide the palette content and display only the docked palette title bar
 
 #### Q46. The navigation bar is normally on by default and is located to the right-hand side of the drawing area. Which variable controls the display of the navigation bar, and to what value does it need to be set for the navigation bar to display on the screen?
 
@@ -365,7 +365,7 @@
 
 - [ ] the status bar
 - [ ] the navigation bar
-- [ ] the Quick Access toolbar (QAT)
+- [x] the Quick Access toolbar (QAT)
 - [ ] the info bar
 
 #### Q49. When drafting with object snaps and object snap tracking, what other drafting setting can you use to set object snap tracking points?
@@ -557,7 +557,7 @@
 - [ ] side polygon
 - [ ] polyline polygon
 - [ ] line polygon
-- [ ] edge polygon
+- [x] edge polygon
 
 #### Q76. When using blocks in a drawing, a selected block displays only one grip: the insertion point. How would you get a block to display all of its associated grips?
 
